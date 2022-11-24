@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya Sharma 
-- 👀 I’m interested in  Web Dev ,DSA  and enjoy learning new things.
+- 👀 I’m interested in  Web Dev ,DSA  and enjoy learning new tech-stack.
 - 🌱 I’m currently learning MERN STACK.
 - 💞️ I’m looking to collaborate  on Web development projects  and help with competitive DSA questions.
 - 📫 How to reach me :sharmashreya00070@gmail.com
